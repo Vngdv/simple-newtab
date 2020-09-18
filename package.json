@@ -1,7 +1,7 @@
 {
   "name": "simple-newtab",
   "version": "1.0.0",
-  "main": "newtab.js",
+  "main": "",
   "license": "MIT",
   "private": true
 }

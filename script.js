@@ -18,7 +18,7 @@ const possibleColors = [
 // Function used to updated the time in html
 function updateTime () {
     var date = new Date();
-    timeElement.innerHTML = formatNum(date.getHours()) + ':' + formatNum(date.getMinutes()) + ':' + formatNum(date.getSeconds());
+    timeElement.innerText = formatNum(date.getHours()) + ':' + formatNum(date.getMinutes()) + ':' + formatNum(date.getSeconds());
 }
 
 function formatNum(num){
