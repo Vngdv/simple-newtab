@@ -7,7 +7,11 @@ const possibleColors = [
     'orange',
     'yellow',
     'lightblue',
-    'lightpink'
+    'lightpink',
+    'lightyellow',
+    'cyan',
+    'crimson',
+    'deeppink'
 ];
 
 // Set random border color

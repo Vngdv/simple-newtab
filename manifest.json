@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Simple Newtab",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Adds a simple looking new tab page to Firefox",
     "icons": {
         "48": "icons/icon48.png",
